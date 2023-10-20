@@ -2,7 +2,7 @@
 import pygame
 import Constants
 import os
-import pygame_menu/pygame_menu
+import pygame_menu
 from Ball import Ball
 from Paddle import Paddle
 from LaserBullet import LaserBullet

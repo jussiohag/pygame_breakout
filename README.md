@@ -32,5 +32,4 @@ $ python3 LXFPaddleSmash/PaddleSmash.py
 
 ## todo 
 
-change the name to breakout
 ...
